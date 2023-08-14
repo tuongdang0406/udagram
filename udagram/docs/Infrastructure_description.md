@@ -10,5 +10,5 @@
 ### The app hosting on AWS:
 
 - Udagram front-end will be set up on S3.
-- Udagram back-end  will be set up on Elastic Beanstalk.
+- Udagram back-end will be set up on Elastic Beanstalk.
 - The data will be stored in a Postgres database managed by RDS.
